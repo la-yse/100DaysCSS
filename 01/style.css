@@ -1,0 +1,109 @@
+.frame {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+		margin-top: -200px;
+ 		margin-left: -200px;
+    height: 400px;
+    width: 400px;
+    border: 50px;
+    border-color: black;   
+    box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+    border-radius: 5px;
+    background: rgb(230,192,104);
+    background: linear-gradient(72deg, rgba(230,192,104,1) 0%, rgba(229,190,236,1) 62%); 
+    font-family: 'Courier New', 'Courier', sans-serif;
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+  .one {
+    position: absolute;
+    z-index: 10;
+    top: -60px;
+    left: 20px;
+    width: 25px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    box-shadow: 0 0 13px 0 rgba(0,0,0,0.3);
+
+  }
+
+.one-tail {
+    position: absolute;
+    z-index: 1;
+    top: -60px;
+    left: 3px;
+    width: 20px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    box-shadow: 0 0 13px 0 rgba(0,0,0,0.3);
+    transform: rotate(50deg);
+
+}
+
+.zero-one {
+    position: absolute;
+    z-index: 8;
+    top: -60px;
+    left: 35px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 24px solid #fff;
+    box-shadow: 0 0 13px 0 rgba(0,0,0,0.3);    
+}
+
+.zero-two {
+        position: absolute;
+        z-index: 6;
+        top: -60px;
+        left: 118px;
+        box-sizing: border-box;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        border: 24px solid #fff;
+        box-shadow: 0 0 13px 0 rgba(0,0,0,0.3);    
+
+}
+
+.big {
+	position: relative;
+    z-index: 20;
+    top: 45px;
+    left: 8px;
+    display: block;
+    font-size: 80px;
+    line-height: 60px;
+	color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 6px;
+}
+
+.small {
+    position: relative;
+    top: 50px;
+    left: 8px;
+    z-index: 20;    
+    display: block; 
+    font-size: 24px;
+    line-height: 20px;
+	color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .04em; 
+    
+}
