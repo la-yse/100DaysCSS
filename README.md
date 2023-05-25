@@ -6,3 +6,4 @@
 4.
 5.
 6. ✅ Social media profile for Guts (Berserk).
+6. ✅ Social media profile for Griffith (Berserk).
