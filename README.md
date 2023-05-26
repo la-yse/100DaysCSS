@@ -3,6 +3,8 @@
 ## A creative learning challenge using HTML and CSS.
 ### Starting: May 24th, 2023. 
 
+------------------
+
 - [x] Custom build number with gradient. #1
 - [ ] 2
 - [ ] 3
