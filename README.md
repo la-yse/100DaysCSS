@@ -1,6 +1,6 @@
-# 100 Days CSS Challenge ✨
+## 100 Days CSS Challenge ✨
 
-## A creative learning challenge using HTML and CSS.
+### A creative learning challenge using HTML and CSS.
 ### Starting: May 24th, 2023. 
 
 ------------------
