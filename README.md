@@ -1,6 +1,6 @@
 # 100 Days CSS Challenge ✨
 
-01. ✅ Custom build number with gradient.
+01. [x] Custom build number with gradient.
 02. 
 03.
 04.
