@@ -67,7 +67,7 @@ Starting: May 24th, 2023.
 - [ ] 59
 - [ ] 60
 - [x] Gradient exercise. #61
-- [ ] Sample pricing tables. #62 
+- [x] Sample pricing tables. #62 
 - [ ] 63
 - [ ] 64
 - [ ] 65
